@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "name": "Hello World",
+    "description": "Simple test scene.",
+    "previewImg": "https://i.ytimg.com/vi/73HnjmkTRPU/maxresdefault.jpg",
+    "likes": 5,
+    "views": 10,
+    "category": ["cat1"]
+  },
+  {
+    "id": "13",
+    "name": "Func Vis",
+    "description": "Function visualization plain.",
+    "previewImg": "http://filurin.ru/wp-content/uploads/2008/10/sedlo3.jpg",
+    "likes": 14,
+    "views": 45,
+    "category": ["cat1"]
+  },
+  {
+    "id": "4",
+    "name": "Shark",
+    "description": "Really dangerous!",
+    "previewImg": "https://www.thesun.co.uk/wp-content/uploads/2017/06/nintchdbpict0002407806071.jpg?strip=all&w=960",
+    "likes": 10,
+    "views": 50,
+    "category": ["cat2"]
+  },
+  {
+    "id": "2",
+    "name": "Dragon",
+    "description": "Actually it's dinosaur.",
+    "previewImg": "https://whendinosaursruledthemind.files.wordpress.com/2014/08/download-3.jpg",
+    "likes": 9,
+    "views": 48,
+    "category": ["cat2"]
+  },
+  {
+    "id": "3",
+    "name": "Guard",
+    "description": "Lol guys, i'm play with russian.",
+    "previewImg": "https://i.ytimg.com/vi/DcAafccz64g/maxresdefault.jpg",
+    "likes": 0,
+    "views": 0,
+    "category": ["cat3"]
+  },
+  {
+    "id": "5",
+    "name": "Planes",
+    "description": "Plane detection sample.",
+    "previewImg": "https://i.ytimg.com/vi/sCKrZUKapps/maxresdefault.jpg",
+    "likes": 7,
+    "views": 24,
+    "category": ["cat1"]
+  },
+  {
+    "id": "6",
+    "name": "Text and Light",
+    "description": "Sample of 3d text + lightning.",
+    "previewImg": "https://wegraphics.net/wp-content/uploads/2012/09/3D-text-img15.jpg",
+    "likes": 3,
+    "views": 13,
+    "category": ["cat1"]
+  }
+]
