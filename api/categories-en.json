@@ -1,32 +1,38 @@
-{
-  "cat1" : {
+[
+  {
+    "key": "cat1",
     "name": "Samples",
     "img": "https://i.ytimg.com/vi/73HnjmkTRPU/maxresdefault.jpg",
     "description": "Official samples scenes."
   },
-  "cat2" : {
+  {
+    "key": "cat2",
     "name": "Creatures",
     "img": "https://i.pinimg.com/736x/b0/c3/da/b0c3da2011f43fbf94d6cc11507288c3--dragon-blanc-fantasy-creatures.jpg",
     "description": "Some creatures models."
   },
-  "cat3" : {
+  {
+    "key": "cat3",
     "name": "Star wars",
     "img": "http://img.lum.dolimg.com/v1/images/starwars_551c43f4.jpeg",
     "description": "May the Force be with you."
   },
-  "cat4" : {
+  {
+    "key": "cat4",
     "name": "Category 4",
     "img": "https://i.ytimg.com/vi/73HnjmkTRPU/maxresdefault.jpg",
     "description": "Just list filler."
   },
-  "cat5" : {
+  {
+    "key": "cat5",
     "name": "Category 5",
     "img": "https://i.ytimg.com/vi/73HnjmkTRPU/maxresdefault.jpg",
     "description": "Just list filler."
   },
-  "cat6" : {
+  {
+    "key": "cat6",
     "name": "Category 6",
     "img": "https://i.ytimg.com/vi/73HnjmkTRPU/maxresdefault.jpg",
     "description": "Just list filler."
   }
-}
+]
