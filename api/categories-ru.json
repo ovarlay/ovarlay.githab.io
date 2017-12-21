@@ -1,0 +1,32 @@
+{
+  "cat1" : {
+    "name": "Примеры",
+    "img": "https://i.ytimg.com/vi/73HnjmkTRPU/maxresdefault.jpg",
+    "description": "Официальные примеры сцен.",
+  },
+  "cat2" : {
+    "name": "Существа",
+    "img": "https://i.pinimg.com/736x/b0/c3/da/b0c3da2011f43fbf94d6cc11507288c3--dragon-blanc-fantasy-creatures.jpg",
+    "description": "Несколько моделей существ.",
+  },
+  "cat3" : {
+    "name": "Star wars",
+    "img": "http://img.lum.dolimg.com/v1/images/starwars_551c43f4.jpeg",
+    "description": "Да прибудет с тобой сила.",
+  },
+  "cat4" : {
+    "name": "Категория 4",
+    "img": "https://i.ytimg.com/vi/73HnjmkTRPU/maxresdefault.jpg",
+    "description": "Просто для наполнения списка.",
+  },
+  "cat5" : {
+    "name": "Категория 5",
+    "img": "https://i.ytimg.com/vi/73HnjmkTRPU/maxresdefault.jpg",
+    "description": "Просто для наполнения списка.",
+  },
+  "cat6" : {
+    "name": "Категория 6",
+    "img": "https://i.ytimg.com/vi/73HnjmkTRPU/maxresdefault.jpg",
+    "description": "Просто для наполнения списка.",
+  }
+}
