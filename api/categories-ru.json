@@ -19,14 +19,14 @@
   },
   {
     "key": "cat4",
-    "name": "Категория 4",
+    "name": "Новый год",
     "img": "https://i.ytimg.com/vi/73HnjmkTRPU/maxresdefault.jpg",
-    "description": "Просто для наполнения списка."
+    "description": "С новым годом!"
   },
   {
     "key": "cat5",
     "name": "Категория 5",
-    "img": "https://i.ytimg.com/vi/73HnjmkTRPU/maxresdefault.jpg",
+    "img": "https://pbs.twimg.com/media/DO7xprTV4AA32VH.jpg",
     "description": "Просто для наполнения списка."
   },
   {

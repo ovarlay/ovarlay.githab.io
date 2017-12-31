@@ -61,5 +61,14 @@
     "likes": 3,
     "views": 13,
     "category": ["cat1"]
+  },
+  {
+    "id": "7",
+    "name": "Happy New Year",
+    "description": "Celebrate.",
+    "previewImg": "https://i.ytimg.com/vi/73HnjmkTRPU/maxresdefault.jpg",
+    "likes": 8,
+    "views": 20,
+    "category": ["cat4"]
   }
 ]

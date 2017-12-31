@@ -218,5 +218,35 @@
       }
     ],
     "fullDescription": ""
+  },
+  {
+    "id": "7",
+    "name": "Happy New Year",
+    "description": "Celebrate.",
+    "previewImg": "https://i.ytimg.com/vi/73HnjmkTRPU/maxresdefault.jpg",
+    "likes": 8,
+    "views": 20,
+    "category": ["cat4"],
+    "url": "https://ovarlay.github.io/api/bundles/elka.js",
+    "creator": {
+      "name": "Ovarlay Team",
+      "url": "https://ovarlay.github.io",
+      "copyright": "Ovarlay Team, 2017"
+    },
+    "screenShots": [
+      {
+        "src": "http://eskipaper.com/images/christmas-tree-snowman-gift-new-year-1.jpg",
+        "largeSrc": "",
+      },
+      {
+        "src": "http://www.zastavki.com/pictures/originals/2013/New_Year_wallpapers_New_year_tree_in_a_middle_of_the_forest_050566_.jpg",
+        "largeSrc": "",
+      },
+      {
+        "src": "http://s1.1zoom.net/big0/927/398549-blackangel.jpg",
+        "largeSrc": "",
+      }
+    ],
+    "fullDescription": ""
   }
 ]
