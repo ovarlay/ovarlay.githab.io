@@ -1,0 +1,163 @@
+{
+  "id": "0",
+  "name": "sceneName",
+  "assets": [
+    {
+      "id":"optimerBoldFont",
+      "name":"Standart font",
+      "type":"font",
+      "src":"https://rawgit.com/mrdoob/three.js/dev/examples/fonts/optimer_bold.typeface.json"
+    },
+    {
+      "id": "t90",
+      "name": "t90",
+      "type": "model",
+      "src": "https://ovarlay.github.io/assets/RussianTanks.zip",
+      "path": "RussianTanks/T-90/T-90.dae",
+    },
+    {
+      "id":"taobao",
+      "name":"TaobBao logo",
+      "type":"texture",
+      "src":"https://raw.githubusercontent.com/kfeagle/firstdemo/master/taobao.jpg"
+    },
+    {
+      "id":"bullet",
+      "name":"Bullet texture",
+      "type":"texture",
+      "src":"https://raw.githubusercontent.com/kfeagle/firstdemo/master/bullet.jpg"
+    }
+  ],
+  "materials": [
+    {
+      "id":"test",
+      "name":"Yellow",
+      "color":"yellow"
+    },
+    {
+      "id":"sphere",
+      "name":"Sphere Bullet",
+      "src":"#bullet",
+      "color":"white"
+    },
+    {
+      "id":"taobao",
+      "name":"TaoBao",
+      "src":"#taobao",
+      "color":"white"
+    }
+  ],
+  "childNodes": [
+    {
+      "id":0,
+      "name":"tank_t90",
+      "type":"model",
+      "position": {"x":0,"y":-2,"z":-3},
+      "rotation": {"x":0,"y":90,"z":0},
+      "modelID": "t90",
+      "visible": true
+    },
+    {
+      "id":1,
+      "name":"box02",
+      "type":"box",
+      "position": {"x":2,"y":1.5,"z":-3},
+      "scale": {"x":0.8,"y":0.8,"z":0.8},
+      "materialID": "taobao",
+      "visible":true,
+      "childNodes": [
+        {
+          "id":2,
+          "name":"sphere01",
+          "type":"sphere",
+          "position": {"x":1.5,"y":0,"z":0},
+          "rotation": {"x":0,"y":45,"z":0},
+          "scale": {"x":0.6,"y":0.6,"z":0.6},
+          "materialID": "sphere",
+          "visible":true
+        },
+        {
+          "id":3,
+          "name":"sphere02",
+          "type":"sphere",
+          "position": {"x":-1.5,"y":0,"z":0},
+          "rotation": {"x":0,"y":45,"z":0},
+          "scale": {"x":0.4,"y":0.4,"z":0.4},
+          "materialID": "sphere",
+          "visible":true
+        },
+        {
+          "id":4,
+          "name":"sphere03",
+          "type":"sphere",
+          "position": {"x":1.5,"y":1.5,"z":0},
+          "rotation": {"x":0,"y":45,"z":0},
+          "scale": {"x":0.6,"y":0.6,"z":0.6},
+          "materialID": "sphere",
+          "visible":true
+        },
+        {
+          "id":5,
+          "name":"sphere04",
+          "type":"sphere",
+          "position": {"x":-1.5,"y":-1.5,"z":0},
+          "rotation": {"x":0,"y":45,"z":0},
+          "scale": {"x":0.4,"y":0.4,"z":0.4},
+          "materialID": "sphere",
+          "visible":true
+        }
+      ]
+    },
+    {
+      "id":6,
+      "name":"box03",
+      "type":"box",
+      "position": {"x":-4,"y":1.5,"z":-3},
+      "scale": {"x":0.8,"y":0.8,"z":0.8},
+      "materialID": "taobao",
+      "visible":true,
+      "childNodes": [
+        {
+          "id":7,
+          "name":"sphere01",
+          "type":"sphere",
+          "position": {"x":1.5,"y":0,"z":0},
+          "rotation": {"x":0,"y":45,"z":0},
+          "scale": {"x":0.6,"y":0.6,"z":0.6},
+          "materialID": "sphere",
+          "visible":true
+        },
+        {
+          "id":8,
+          "name":"sphere02",
+          "type":"sphere",
+          "position": {"x":-1.5,"y":0,"z":0},
+          "rotation": {"x":0,"y":45,"z":0},
+          "scale": {"x":0.4,"y":0.4,"z":0.4},
+          "materialID": "sphere",
+          "visible":true
+        },
+        {
+          "id":9,
+          "name":"sphere03",
+          "type":"sphere",
+          "position": {"x":1.5,"y":1.5,"z":0},
+          "rotation": {"x":0,"y":45,"z":0},
+          "scale": {"x":0.6,"y":0.6,"z":0.6},
+          "materialID": "sphere",
+          "visible":true
+        },
+        {
+          "id":10,
+          "name":"sphere04",
+          "type":"sphere",
+          "position": {"x":-1.5,"y":-1.5,"z":0},
+          "rotation": {"x":0,"y":45,"z":0},
+          "scale": {"x":0.4,"y":0.4,"z":0.4},
+          "materialID": "sphere",
+          "visible":true
+        }
+      ]
+    }
+  ]
+}
